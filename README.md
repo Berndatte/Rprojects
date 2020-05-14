@@ -1,2 +1,2 @@
 # Rprojects
-# visualization of data in R practices
+visualization of data in R practices
